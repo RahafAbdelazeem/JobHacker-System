@@ -1,4 +1,4 @@
- package Validparantheses;
+package Validparantheses;
 
 import java.util.Scanner;
 import java.util.Stack;
