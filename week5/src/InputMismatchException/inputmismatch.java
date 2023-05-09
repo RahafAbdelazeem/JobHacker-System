@@ -13,7 +13,7 @@ public class inputmismatch{
         while (true)
         {
             try{
-                System.out.print("enter 2 enteger");
+                System.out.print("enter two enteger");
                 num1=scan.nextInt();
                  num2= scan.nextInt();
                   break;
@@ -21,7 +21,7 @@ public class inputmismatch{
             }
 
             catch (InputMismatchException ex){
-                System.out.println ("Enter valid integer %n %n");
+                System.out.println ("enter  real integer");
                 scan.nextLine();
 
             }
