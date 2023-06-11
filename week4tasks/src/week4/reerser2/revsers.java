@@ -4,10 +4,11 @@ import java.util.Scanner;
 
 public class revsers {
     public static void main(String[] args){
-         String S;
+
+         String normalstring;
         Scanner in= new Scanner(System.in);
-        S=in.next();
-        StringBuilder sb= new StringBuilder(S);
+        normalstring=in.next();
+        StringBuilder sb= new StringBuilder(normalstring);
          StringBuilder revstr= sb.reverse();
          System.out.print(revstr);
 
