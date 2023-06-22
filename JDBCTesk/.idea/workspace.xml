@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d84e8768-78bf-490d-b3df-77c06f9cd513" name="Default Changelist" comment="" />
+    <list default="true" id="d84e8768-78bf-490d-b3df-77c06f9cd513" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JDBCTasks/META-INF/JDBCTasks.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JDBCTasks/Task1/sqlconnction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JDBCTasks/Task1/sqlconnction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataBase/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,16 +23,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2RWTtjRZwUPDzy0P9FRjrcIuaSR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mysql-connector-j-8.0.31.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mysql-connector-j-8.0.31.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,26 +53,13 @@
       <recent name="DataBase" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.batchupdating">
+  <component name="RunManager" selected="Application.sqlconnction (1)">
     <configuration name="CreateEmployeeTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task2.CreateEmployeeTable" />
       <module name="JDBCTasks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MysqlApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataBase.MysqlApp" />
-      <module name="JDBCTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sqlconnction (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1.sqlconnction" />
+      <module name="JDBCTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sqlconnction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataBase.sqlconnction" />
       <module name="JDBCTasks" />
@@ -109,19 +120,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MysqlApp" />
       <item itemvalue="Application.Mysqlconnction" />
       <item itemvalue="Application.sqlconnction" />
       <item itemvalue="Application.CreateEmployeeTable" />
       <item itemvalue="Application.batchupdating" />
+      <item itemvalue="Application.sqlconnction (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sqlconnction (1)" />
         <item itemvalue="Application.batchupdating" />
         <item itemvalue="Application.CreateEmployeeTable" />
         <item itemvalue="Application.sqlconnction" />
         <item itemvalue="Application.Mysqlconnction" />
-        <item itemvalue="Application.MysqlApp" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +151,7 @@
       <workItem from="1687441265897" duration="592000" />
       <workItem from="1687450525333" duration="9759000" />
       <workItem from="1687462749878" duration="1110000" />
+      <workItem from="1687464731428" duration="223000" />
     </task>
     <servers />
   </component>
@@ -151,30 +163,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1687462998337" />
-    <state x="389" y="108" key="FileChooserDialogImpl" timestamp="1687387213181">
+    <state x="389" y="108" key="FileChooserDialogImpl" timestamp="1687465038460">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="389" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1687387213181" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1687463873633">
+    <state x="389" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1687465038460" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1687465083634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1687463873633" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1687463873633">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1687465083634" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1687465083634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1687463873633" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1687463873633">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1687465083634" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1687465083634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1687463873633" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1687463873633">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1687465083634" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1687465083634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1687463873633" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1687387226068">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1687465083634" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1687465049362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1687387226068" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1687465049362" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1687450621271">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
