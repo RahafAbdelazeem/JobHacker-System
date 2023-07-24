@@ -9,14 +9,10 @@ public class inputmismatch{
     public static void main(String[] args) {
         int num1 = 0, num2=0;
         Scanner  scan =new Scanner( System .in);
-
-        while (true)
-        {
             try{
                 System.out.print("enter two enteger");
                 num1=scan.nextInt();
-                 num2= scan.nextInt();
-                  break;
+                num2= scan.nextInt();
 
             }
 
@@ -25,13 +21,9 @@ public class inputmismatch{
                 scan.nextLine();
 
             }
-
-
-
-
-        }
         int result= num1+ num2;
         System .out .println(result);
 
     }
 }
+

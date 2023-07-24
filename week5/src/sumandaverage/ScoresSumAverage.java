@@ -6,15 +6,15 @@ import java.util.Scanner;
 
 public class ScoresSumAverage {
      public static void ReadFromWebtoFile(URL url,File F) throws IOException {
-         InputStream inner= url.openStream();
-         OutputStream outer=  new FileOutputStream(F);
+         InputStream input= url.openStream();
+         OutputStream output=  new FileOutputStream(F);
           byte [] ereader= new byte[4096];
           int ReadingByte;
-          while((ReadingByte= inner.read(ereader))!=-1){
-              outer.write(ereader,0,ReadingByte);
+          while((ReadingByte= input.read(ereader))!=-1){
+              output.write(ereader,0,ReadingByte);
          }
-           inner.close();
-          outer.close();
+          input.close();
+          output.close();
      }
       public  static int GetSum(File f) throws FileNotFoundException{
          int sumation=0;
@@ -33,21 +33,13 @@ public class ScoresSumAverage {
          while(sc.hasNext()){
              sc.nextInt();
              counter ++;
-
-
          }
-
          sc.close();
           aver= sum/counter;
          return aver;
-
-
       }
-
     public static void main(String[] args)   {
-	// write your code here
          try {
-
              URL ur = new URL("http://liveexample.pearsoncmg.com/data/Scores.txt");
              File Scores = new File("Scores.txt");
              ReadFromWebtoFile(ur, Scores);
@@ -60,6 +52,5 @@ public class ScoresSumAverage {
              System.out.print(" The error:"+ e.getMessage());
          }
     }
-
 }
 
