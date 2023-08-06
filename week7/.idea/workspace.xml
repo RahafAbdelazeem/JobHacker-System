@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="067e0e60-f898-424f-b57a-f8172a72cd80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../week4tasks/src/week4/reerser2/revsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week4tasks/src/week4/reverse3/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dectionaryword/Alphapbitdectionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dectionaryword/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeMap/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="week7" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Reem Abd Elazeem\Desktop\JobHacker-System\week7\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QG0QNKWjU8A2dx7uaF2rOCKumw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.Main" />
+      <module name="week7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeMap.Main" />
+      <module name="week7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TreeMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dectionaryword.Main" />
+      <module name="week7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dectionaryword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedHashset.Main" />
+      <module name="week7" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="067e0e60-f898-424f-b57a-f8172a72cd80" name="Default Changelist" comment="" />
+      <created>1684964594025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684964594025</updated>
+      <workItem from="1684964606704" duration="4164000" />
+      <workItem from="1685026643035" duration="3431000" />
+      <workItem from="1685047507282" duration="3172000" />
+      <workItem from="1685057539807" duration="562000" />
+      <workItem from="1685112145782" duration="1732000" />
+      <workItem from="1685114033339" duration="5255000" />
+      <workItem from="1685130395356" duration="1469000" />
+      <workItem from="1689088191879" duration="5400000" />
+      <workItem from="1689098292853" duration="4998000" />
+      <workItem from="1689202934678" duration="3684000" />
+      <workItem from="1689540735815" duration="3576000" />
+      <workItem from="1689549319559" duration="2043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="25" key="#Glassfish_Server" timestamp="1689204984074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="25" key="#Glassfish_Server/0.0.1366.728@0.0.1366.728" timestamp="1689204984074" />
+    <state x="274" y="25" key="#Tomcat_Server" timestamp="1689206073773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="25" key="#Tomcat_Server/0.0.1366.728@0.0.1366.728" timestamp="1689206073773" />
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1684966404349">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1684966404349" />
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1689549694843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1689549694843" />
+    <state x="462" y="108" key="FileChooserDialogImpl" timestamp="1689206072084">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1689206072084" />
+    <state x="546" y="281" key="Github.Dialog.Accounts.Choose" timestamp="1685131285266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="281" key="Github.Dialog.Accounts.Choose/0.0.1366.728@0.0.1366.728" timestamp="1685131285266" />
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1689551403559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1689551403559" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1689551403559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1689551403559" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1689551403559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1689551403559" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1689551403559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1689551403559" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1685131275201">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1685131275201" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1689549377489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1689549377489" />
+    <state x="65" y="0" key="new project wizard" timestamp="1689206075321">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1689206075321" />
+    <state x="339" y="164" width="672" height="677" key="run.anything.popup" timestamp="1689549721415">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1689549721415" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1689550065395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1689550065395" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TreeMap/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
